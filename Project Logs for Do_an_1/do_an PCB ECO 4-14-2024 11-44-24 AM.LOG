@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC6_2 Pin=C6-2
+Removed Pin From Net: NetName=NetC6_2 Pin=R3-2
+Removed Pin From Net: NetName=NetC6_2 Pin=R6-1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC8_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=C8-2
+Added Pin To Net: NetName=NetC6_2 Pin=IC1-2
+Added Pin To Net: NetName=NetC6_2 Pin=R3-2
+Added Pin To Net: NetName=NetC6_2 Pin=R6-1
+Added Net: Name=NetC6_2
+Added Member To Class: ClassName=do_an Member=Component IC1 LM324 SOP14
